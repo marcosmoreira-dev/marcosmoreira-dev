@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👨🏻‍💻 Marcos Moreira
 
-<!--
-**marcosmoreira-dev/marcosmoreira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Web em Formação`**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de **Desenvolvimento Web**, com foco em **Front-end**.  
+Atualmente estudo **HTML, CSS e JavaScript**, aplicando os conhecimentos em projetos práticos e exercícios de lógica de programação.
+
+🎯 **Objetivo:** conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior e evoluir profissionalmente na área de tecnologia.
+
+### 🚀 Tecnologias em aprendizado
+- HTML5  
+- CSS3  
+- JavaScript  
+- Lógica de Programação  
+- Git e GitHub  
+
+### 📚 Atualmente
+- Cursos de Desenvolvimento Web (Curso em Vídeo)
+- Construção de projetos pessoais para prática de front-end
+
+### 🔗 Contato
+- LinkedIn: https://linkedin.com/in/marcosmoreira7

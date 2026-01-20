@@ -9,7 +9,7 @@ Atualmente estudo **HTML, CSS e JavaScript**, aplicando os conhecimentos em proj
 
 🎯 **Objetivo:** conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior e evoluir profissionalmente na área de tecnologia.
 
-### 🚀 Tecnologias em aprendizado
+### 🚀 Tecnologias em estudo e prática
 - HTML5  
 - CSS3  
 - JavaScript  

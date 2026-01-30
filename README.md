@@ -21,4 +21,4 @@ Atualmente estudo **HTML, CSS e JavaScript**, aplicando os conhecimentos em proj
 - Construção de projetos pessoais para prática de front-end
 
 ### 🔗 Contato
-- LinkedIn: https://linkedin.com/in/marcosmoreira7
+- LinkedIn: https://linkedin.com/in/marcosmoreira-dev

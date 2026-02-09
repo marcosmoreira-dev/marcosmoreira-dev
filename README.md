@@ -18,7 +18,8 @@ Atualmente estudo **HTML, CSS e JavaScript**, aplicando os conhecimentos em proj
 
 ### 📚 Atualmente
 - Curso de JavaScript e TypeScript (Udemy)
-- Cursos de Desenvolvimento Web (Curso em Vídeo)
+- Cursos de HTML5 e CSS3 (Curso em Vídeo)
+- GFT Start #6 - Lógica de Programação (DIO.me)
 - Construção de projetos pessoais para prática de front-end
 
 ### 🔗 Contato

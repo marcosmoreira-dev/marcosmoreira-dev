@@ -17,6 +17,7 @@ Atualmente estudo **HTML, CSS e JavaScript**, aplicando os conhecimentos em proj
 - Git e GitHub  
 
 ### 📚 Atualmente
+- Curso de JavaScript e TypeScript (Udemy)
 - Cursos de Desenvolvimento Web (Curso em Vídeo)
 - Construção de projetos pessoais para prática de front-end
 

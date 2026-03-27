@@ -4,20 +4,23 @@
 
 
 Sou estudante de **Desenvolvimento Web**, com foco em **Front-end**.
-Estou me preparando para ingressar no curso de **Sistemas de Informação** na **Universidade Federal Fluminense (UFF)** no 1º semestre de 2026.
-Atualmente estudo **HTML, CSS e JavaScript**, aplicando os conhecimentos em projetos práticos e exercícios de lógica de programação.
+Atualmente, estou no 1º semestre **Sistemas de Informação** na **Universidade Federal Fluminense (UFF)**  de 2026.
+Atualmente estudo **HTML, CSS, JavaScript e React**, aplicando os conhecimentos em projetos práticos e exercícios de lógica de programação.
 
 🎯 **Objetivo:** conquistar minha primeira oportunidade como estagiário ou desenvolvedor júnior e evoluir profissionalmente na área de tecnologia.
 
 ### 🚀 Tecnologias em estudo e prática
+- React JS 19
+- Next.js 15
 - JavaScript  
 - HTML5  
 - CSS3  
 - Lógica de Programação  
 - Git e GitHub  
 
-### 📚 Atualmente
-- Curso de JavaScript e TypeScript (Udemy)
+### 📚 Cursos
+- Curso de React JS 19 e Next.js 15 (Udemy - em andamento)
+- Curso de JavaScript e TypeScript (Udemy - em andamento)
 - Cursos de HTML5 e CSS3 - Módulos de 1 a 5 (Curso em Vídeo)
 - GFT Start #6 - Lógica de Programação (DIO.me)
 - Construção de projetos pessoais para prática de front-end

@@ -40,7 +40,7 @@ Interface de login responsiva com validação visual e design moderno.
 ## 📈 Atualmente estudando
 
 - React e Next.js (projetos práticos)
-- Lógica de programação (beecrowd)
+- Node.js (Express, APIs e MongoDB)
 - JavaScript e TypeScript
   
 ## 📚 Cursos

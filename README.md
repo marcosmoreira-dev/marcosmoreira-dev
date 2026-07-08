@@ -4,7 +4,7 @@
 
 
 Sou estudante de Sistemas de Informação na UFF, focado em desenvolvimento front-end.
-Tenho construído projetos práticos com React, JavaScript e Next.js, priorizando interfaces modernas e boas práticas de código.
+Tenho construído projetos práticos com React, TypeScript e Next.js, priorizando interfaces modernas e boas práticas de código.
 Atualmente, estou desenvolvendo projetos e resolvendo problemas de lógica diariamente para evoluir como desenvolvedor.
 
 🎯 **Objetivo:** Busco minha primeira oportunidade como estagiário ou júnior em desenvolvimento front-end, onde eu possa evoluir com projetos reais e contribuir com soluções eficientes.

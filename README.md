@@ -26,9 +26,9 @@ Aplicação de produtividade com contagem regressiva, gerenciamento de ciclos e 
 **Tecnologias:** React, Vite, TypeScript, React Router, Hooks e Web Worker<br>
 🚧 Em desenvolvimento
 
-- 📊 [Projeto Android](https://marcosmoreira-dev.github.io/projeto-android/index.html)  
-Página responsiva com foco em layout adaptativo e boas práticas de CSS.  
-**Tecnologias:** HTML, CSS
+- 📊 [Site Rhema Seguros](https://desenvolve-seguro.netlify.app/)  
+Site Instutitucional com Blog integrado.
+**Tecnologias:** Next.js, React, TypeScript, TailwindCSS, Sanity
 
 - 💻 [Tela de Login](https://marcosmoreira-dev.github.io/projeto-login/)  
 Interface de login responsiva com validação visual e design moderno.  
